@@ -6,3 +6,4 @@ public interface BasicMath {
     double multiplication(double operand1, double operand2);
     double division(double operand1, double operand2);
 }
+
